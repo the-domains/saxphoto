@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2669173
+color:
+  saturation: 0.4989487
+  lightness: 0.3733618
+  brandStrength: 0.2748161
+  rhythmicContrast: 0.1569001
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Saxphoto
