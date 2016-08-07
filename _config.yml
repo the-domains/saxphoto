@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.2669173
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.4989487
-  lightness: 0.3733618
+  saturation: 0.2959183
   brandStrength: 0.2748161
-  rhythmicContrast: 0.1569001
+  lightness: 0.7663802
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#A78C6F'
+    - '#0192EA'
+    - '#001723'
+    - '#3F6801'
+    - '#FFF8FF'
+  rhythmicContrast: 0.2003222
+typography_spectrum: 0.2669173
+layout_spectrum: 1
 name: Saxphoto
